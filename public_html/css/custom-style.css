@@ -1,12 +1,11 @@
 div {
-    border-style: solid;
+    border-style: none;
     border-width: 5px;
     padding: 20px;
+    color:  #F9F9F9;
 }
-.list-group-item {
-    border: 0;
-    margin-top: 40px;
-    margin-bottom: 40px;
+.jumbotron {
+    background-color: #F9F9F9;
 }
 body {
     background-color: #F9F9F9;
