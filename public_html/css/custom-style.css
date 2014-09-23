@@ -2,11 +2,14 @@ div {
     border-style: none;
     border-width: 5px;
     padding: 20px;
-    color:  #F9F9F9;
+    background-color: #F9F9F9;
 }
 .jumbotron {
-    background-color: #F9F9F9;
+    background-color: #d5d5d5;
 }
 body {
     background-color: #F9F9F9;
+}
+.btn-group {
+    background-color: #d5d5d5
 }
