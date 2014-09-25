@@ -6,6 +6,7 @@ div {
 }
 .jumbotron {
     background-color: #d5d5d5;
+    text-align: center;
 }
 body {
     background-color: #F9F9F9;
